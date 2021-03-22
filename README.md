@@ -2,36 +2,53 @@
 
 #### 介绍
 图书OpenCV4开发的代码与资料下载，欢迎关注我的个人微信公众号：OpenCV学堂
+图书的代码基于:
+- OpenCV4.x
+- VS2015/VS2017
+- tensorflow object detection API版本：1.15.x
+- python版本3.6.5
+- OpenVINO版本2021.02
+- Pytorch版本:1.7.x
 
-#### 软件架构
-软件架构说明
+#### B站视频学习
+我录制了30课时的OPenCV4 C++版本的免费视频，在B站
+提供给大家免费学习，需要直接点击下面地址即可
+OpenCV4.x  C++快速入门视频教程
+https://www.bilibili.com/video/BV1i54y1m7tw
+
+更多视频教程搜索B站【OpenCV学堂】
+
+### OpenCV研习社
+加入即送400+计算机视觉与深度学习论文。
+- 每周一到每周五分享OpenCV/tensorflow知识点学习（音频+文字+源码）
+- OpenCV+tensorflow真实案例代码分享
+- 直接向老师提问、每天答疑辅导
+- 系统化学习约300个知识点，从易到难、由浅入深
+- 计算机视觉与深度学习知识长文分享
+- 每天不到3毛钱，拥抱人工智能时代
+- Python与C++双语知识点分享
+- 建立计算机视觉相关人脉，认识更多同行，一起学习交流！
+- 计算机视觉论文PDF与学习资料PPT分享
+
+少看一场电影，少吃一顿大餐，就可以加持未来，119元学习就可以做到！
+
+![](OpenCVRD.png)
 
 
-#### 安装教程
+## 联系方式
+QQ:57558865 注明：opencv即可
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+邮件:57558865@qq.com
 
-#### 使用说明
+微信：bfnh2qxx 注明 合作
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+<b>非技术合作请勿加微信</b>
 
-#### 参与贡献
+微博 ： http://weibo.com/u/3181256271
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+CSDN博客地址： http://blog.csdn.net/jia20003
 
+51CTO学院课程主页：http://edu.51cto.com/lecturer/8837804.html 
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### OpenCV学堂 微信公众号
+![](CVSCHOOL.jpg)
