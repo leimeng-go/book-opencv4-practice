@@ -1,9 +1,11 @@
 # MyOpenCV4Book
 
 #### 介绍
-- 图书OpenCV4开发的代码与资料下载
-- 欢迎关注我的个人微信公众号：OpenCV学堂
-###### 图书的代码基于:
+```
+图书OpenCV4开发的代码与资料下载
+欢迎关注我的个人微信公众号：OpenCV学堂
+```
+图书的代码基于:
 - OpenCV4.x
 - VS2015/VS2017
 - tensorflow object detection API版本：1.15.x
