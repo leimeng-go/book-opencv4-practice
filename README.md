@@ -30,7 +30,9 @@ OpenCV实验大师平台一款OpenCV工程化开发效率提升与OpenCV教学�
 - OpenCV推理演示涵盖图像分类、对象检测、语义分割
 - 深度学习对象检测与语义分割数据标注支持
 - 支持Win10/Win11/Ubuntu下安装与使用
+
 查看安装指南 - https://mp.weixin.qq.com/s/a9ZyGHYadN61_Cz8n0bImg
+
 扫码下载安装包
 ![](OEMTS.png)
 
