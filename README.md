@@ -2,16 +2,14 @@
 
 #### 介绍
 ```
-图书《OpenCV4开发: 入门、进阶与实战》的代码与资料下载
+图书《OpenCV应用开发：入门、进阶与工程化实践》的代码与资料下载
 欢迎关注我的个人微信公众号：OpenCV学堂
 ```
 图书的代码基于:
-- OpenCV4.x
+- OpenCV4.8
 - VS2015/VS2017
-- tensorflow object detection API版本：1.15.x
-- python版本3.6.5
-- OpenVINO版本2021.02
-- Pytorch版本:1.7.x
+- python版本3.8.5
+- OpenVINO版本2023.1
 
 #### B站视频学习
 我录制了30课时的OPenCV4 C++版本的免费视频，在B站
@@ -21,21 +19,20 @@ https://www.bilibili.com/video/BV1i54y1m7tw
 
 更多视频教程搜索B站【OpenCV学堂】
 
-### OpenCV研习社
-加入即送400+计算机视觉与深度学习论文。
-- 每周一到每周五分享OpenCV/tensorflow知识点学习（音频+文字+源码）
-- OpenCV+tensorflow真实案例代码分享
-- 直接向老师提问、每天答疑辅导
-- 系统化学习约300个知识点，从易到难、由浅入深
-- 计算机视觉与深度学习知识长文分享
-- 每天不到3毛钱，拥抱人工智能时代
-- Python与C++双语知识点分享
-- 建立计算机视觉相关人脉，认识更多同行，一起学习交流！
-- 计算机视觉论文PDF与学习资料PPT分享
-
-少看一场电影，少吃一顿大餐，就可以加持未来，119元学习就可以做到！
-
-![](OpenCVRD.png)
+### OpenCV实验大师平台
+OpenCV实验大师平台一款OpenCV工程化开发效率提升与OpenCV教学质量提升的专业工具软件。作者花了400多个日日夜夜开发的软件，全免费给所有OpenCV开发者与爱好者使用。当前支持功能包含：
+- 涵盖机器视觉常用的图像处理、分析、测量等技术要点
+- 支持ONNX格式模型推理演示
+- OpenCV算法流程设计所见即所得
+- 支持插件模式，充分调动学生动手能力
+- 支持一键导出算法流程PDF文件
+- 提供超过20个OpenCV案例项目文件
+- OpenCV推理演示涵盖图像分类、对象检测、语义分割
+- 深度学习对象检测与语义分割数据标注支持
+- 支持Win10/Win11/Ubuntu下安装与使用
+查看安装指南 - https://mp.weixin.qq.com/s/a9ZyGHYadN61_Cz8n0bImg
+扫码下载安装包
+![](OEMTS.png)
 
 
 ## 联系方式
@@ -47,11 +44,10 @@ QQ:57558865 注明：opencv即可
 
 <b>非技术合作请勿加微信</b>
 
-微博 ： http://weibo.com/u/3181256271
+B站课程主页：https://space.bilibili.com/365916694
 
-CSDN博客地址： http://blog.csdn.net/jia20003
-
-51CTO学院课程主页：http://edu.51cto.com/lecturer/8837804.html 
+OpenCV学堂高品质课程主页：https://appetjpz4tj8166.h5.xiaoeknow.com/
+![](OpenCV4_ROAD.png)
 
 ### OpenCV学堂 微信公众号
 ![](CVSCHOOL.jpg)
