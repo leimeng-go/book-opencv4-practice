@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.1)
+project( chapter_fourteen )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+include_directories(./)
+add_executable( chapter_fourteen defectdetection.cpp )
+target_link_libraries( chapter_fourteen ${OpenCV_LIBS} )

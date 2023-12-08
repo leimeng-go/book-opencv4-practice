@@ -5,7 +5,7 @@
 
 using namespace cv;
 using namespace std;
-string rootdir = "D:/opencv-4.8.0/opencv/book_images/";
+string rootdir = "/home/zhigang/book-opencv4-practice/book_images/";
 // please download models from 
 // https://github.com/gloomyfish1998/opencv_tutorial
 string model_dir = "D:/projects/unet_road.onnx";
