@@ -6,6 +6,7 @@
 欢迎关注我的个人微信公众号：OpenCV学堂
 ```
 扫码购买本书
+https://item.jd.com/10092255924058.html
 
 ![](book_qr.png)
 
